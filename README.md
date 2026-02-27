@@ -10,8 +10,13 @@
 > **Projeto:** Fase 5 - Machine Learning & Cloud Computing (FIAP)
 
 ## 👨‍🌾 Integrantes do Grupo
-* **Nome:** João Pedro Santos Azevedo
-* **RM:** 566701
+- <a href="#">Miriã Leal Mantovani</a>
+- <a href="#">João Pedro Santos Azevedo</a> 
+- <a href="#">Rodrigo de Souza Freitas</a>
+
+## 👩‍🏫 Professores:
+### Tutor(a) 
+- <a href="https://github.com/SabrinaOtoni">Sabrina Otoni</a>
 
 ---
 
@@ -51,7 +56,6 @@ Confira a explicação detalhada do código e dos insights gerados:
 
 ---
 
----
 # ☁️ Entrega 2: Arquitetura em Nuvem (AWS)
 
 ## 1. Comparativo de Custos (AWS Calculator)
